@@ -33,7 +33,7 @@ There are 3 states in the water level control system:<br>
 ## FLOWCHART
 ![image](https://user-images.githubusercontent.com/68748665/222456976-6abdd05c-175c-4633-beb1-83f3bbdce238.png)
 
-##CIRCUT DIAGRAM
+## CIRCUT DIAGRAM
 ![image](https://user-images.githubusercontent.com/68748665/222457134-b0140e99-9ce9-49b7-99dc-8a1ad207ecdb.png)
 
 ## CONCLUSION
